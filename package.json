@@ -1,6 +1,7 @@
 {
   "name": "rescript-test",
   "private": true,
+  "type": "module",
   "version": "0.0.0",
   "scripts": {
     "re:build": "rescript -with-deps",
