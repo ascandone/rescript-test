@@ -28,3 +28,4 @@ lib
 .bsb.lock
 .merlin
 src/**/*.bs.js
+src/**/*.gen.tsx
