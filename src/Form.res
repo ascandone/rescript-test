@@ -14,7 +14,7 @@ let make = (~onSubmit) => {
   }
 
   <form onSubmit=handleSubmit>
-    <input autoFocus=true value onInput=handleInput />
+    <input placeholder="Insert a value..." autoFocus=true value onInput=handleInput />
     <button type_="submit"> {React.string("Submit")} </button>
   </form>
 }
